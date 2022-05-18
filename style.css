@@ -3,6 +3,10 @@ label {
   display: inline-block;
 }
 
+form * {
+  font-size: small;
+}
+
 img {
   margin-left: 200px;
 }
